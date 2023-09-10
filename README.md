@@ -1,2 +1,3 @@
-# ulam_hangman
-Made on June 06, 2023
+# Ulam Hangman
+This game is a Filipino-themed Hangman. <br/>
+You have to guess the ulam or Filipino dish to win. 
